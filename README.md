@@ -1,1 +1,1 @@
-# Sunno-Kahani---Interactive-Story-Generation
+# Suno-Kahani---Interactive-Story-Generation
