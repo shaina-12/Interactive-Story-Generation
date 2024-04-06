@@ -26,5 +26,10 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### 51_Proposal.pdf - Project Proposal
 
 ## Contribution of Each Team Member in the Project (Wii be Updated Soon):
+### Mahisha Ramesh -  
+### Shaina Mehta - 
+### Mahima Chopra - 
+### Janesh Kapoor - 
+### Shivam Dwivedi - 
 
 ## References and Bibliography:
