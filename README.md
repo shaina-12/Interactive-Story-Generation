@@ -25,6 +25,6 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### Mid Project Review  - Contains Deliverables of Mid Project Review 1
 ### 51_Proposal.pdf - Project Proposal
 
-## Contribution of Each Team Member in the Project:
+## Contribution of Each Team Member in the Project (Wii be Updated Soon):
 
 ## References and Bibliography:
