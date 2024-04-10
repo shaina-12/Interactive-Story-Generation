@@ -25,7 +25,7 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### Mid Project Review  - Contains Deliverables of Mid Project Review 1
 ### 51_Proposal.pdf - Project Proposal
 
-## Contribution of Each Team Member in the Project (Wii be Updated as the Project Progresses):
+## Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
 ### Mahisha Ramesh -  
 ### Shaina Mehta - 
 ### Mahima Chopra - 
@@ -33,3 +33,5 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### Shivam Dwivedi - 
 
 ## References and Bibliography:
+
+##### Note: I have given access to this repository to all the teammstes, but due to some technical isssues, I have to push their work also.
