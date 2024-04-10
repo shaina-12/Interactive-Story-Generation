@@ -15,7 +15,7 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### Other TAs of the CSE 508 Course
 
 ## Acknowledgement:
-### Unsung Heros of Stack Overflow, Github, Medium, HuggingFace Tutorials, Towards Data Science and other Web Blogs, and Youtube Videos.
+### Unsung Heros of Stack Overflow, Github, Medium Blogs, HuggingFace Tutorials, Towards Data Science Web Blogs, Kaggle Notebooks, YouTube videos, Research papers, etc.
 
 ## About The Project:
 
@@ -26,12 +26,10 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### 51_Proposal.pdf - Project Proposal
 
 ## Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
-### Mahisha Ramesh -  
-### Shaina Mehta - 
-### Mahima Chopra - 
-### Janesh Kapoor - 
-### Shivam Dwivedi - 
+### Mahisha Ramesh - Done the problem formulation, literature survey, dataset collection and coding part of the project-GPT-2 and GPT-3.5 turbo models.
+### Shaina Mehta - Done the problem formulation, literature survey, dataset collection and coding part of the project- Fine-tuning of Gemma2B Instruct model.
+### Mahima Chopra - Done problem formulation and dataset collection part of the project and developed the project's website's front-end.
+### Janesh Kapoor - Done summarization of research papers and developed the project's website's front-end.
+### Shivam Dwivedi - Give access to the API key of the GPT 3.5 Turbo model.
 
 ## References and Bibliography:
-
-##### Note: I have given access to this repository to all the teammstes, but due to some technical isssues, I have to push their work also.
