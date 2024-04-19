@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Storyteller</title>
+    <style>
+        /* Global styles */
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Header */
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+        }
+
+        /* Logo */
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /* Navigation */
+        nav {
+            display: flex;
+        }
+
+        nav a {
+            color: #fff;
+            margin-left: 15px;
+            text-decoration: none;
+            padding: 5px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Main content */
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        /* Instructions */
+        .instructions {
+            margin-bottom: 20px;
+            color: #555;
+        }
+
+        /* Form */
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        input,
+        textarea {
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            width: 100%;
+        }
+
+        textarea {
+            height: 200px;
+            resize: vertical;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 20px;
+            margin-top: 20px;
+        }
+
+        /* Style for the select element */
+        select {
+            padding: 10px; /* Padding for comfort and consistency with other form elements */
+            margin-bottom: 15px; /* Space below the select element */
+            border: 1px solid #ccc; /* Border color and thickness */
+            border-radius: 4px; /* Rounded corners */
+            font-size: 16px; /* Font size for readability */
+            width: 100%; /* Full width of the parent container */
+            background-color: #fff; /* Background color */
+            color: #333; /* Text color */   
+        }
+
+/* Add hover effect for select options */
+select option:hover {
+    background-color: #f0f0f0; /* Light gray background on hover */
+}
+
+/* Custom style for the default option */
+select option[value=""] {
+    color: #999; /* Light gray color for the default placeholder */
+}
+
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">StoryScape</div>
+        <nav>
+            <a href="home.html">Home</a>
+            <a href="#storyteller">Story Teller</a>
+            <a href="team.html">Team</a>
+        </nav>
+    </header>
+
+    <!-- Main content -->
+    <main>
+        <h1>Share Your Story</h1>
+
+        <div class="instructions">
+            <p>Welcome to the Storyteller page! Here, you can share your stories with the world. Follow these simple steps:</p>
+            <ul>
+                <li>Give your story a captivating title.</li>
+                <li>Select a theme or genre for your story.</li>
+                <li>Write your story in the provided text area.</li>
+            </ul>
+        </div>
+
+        <!-- Form for story submission -->
+        <form action="submit_story" method="POST">
+            <!-- Text box for story title -->
+            <input type="text" name="story_title" placeholder="Story Title" required>
+
+            <!-- Dropdown menu for story theme -->
+            <select name="story_theme" required>
+                <option value="" disabled selected>Select Story Theme</option>
+                <option value="fantasy">Adventure Story</option>
+                <option value="mystery">Horror Story</option>
+                <option value="science_fiction">Science Fiction Story</option>
+                <!-- Add more story themes here as needed -->
+            </select>
+
+            <br>
+
+            <!-- Textarea for writing the story -->
+            <textarea name="story_content" placeholder="Write your story here..." required></textarea>
+
+            <!-- Submit button -->
+            <button type="submit">Submit Story</button>
+        </form>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Contact us at: StoryScape@gmail.com | +91-234-567-890</p>
+    </footer>
+</body>
+
+</html>
