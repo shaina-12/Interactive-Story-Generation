@@ -2,10 +2,10 @@
 Course project of CSE508: Information Retrieval Winter Semester 2024
 
 ## Authors:
+### Janesh Kapoor
+### Mahima Chopra
 ### Mahisha Ramesh
 ### Shaina Mehta
-### Mahima Chopra
-### Janesh Kapoor
 ### Shivam Dwivedi
 
 ## Submitted To:
@@ -26,11 +26,11 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### 51_Proposal.pdf - Project Proposal
 
 ## Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
-### Mahisha Ramesh - Done the problem formulation, literature survey, dataset collection and coding part of the project-GPT-2 and GPT-3.5 turbo models and developed website's backend part.
-### Shaina Mehta - Done the problem formulation, literature survey, dataset collection and coding part of the project- Fine-tuning of Gemma2B Instruct model.
-### Mahima Chopra - Done problem formulation and dataset collection part of the project and developed the project's website's front-end.
-### Janesh Kapoor - Done summarization of research papers and developed the project's website's front-end.
-### Shivam Dwivedi - Give access to the API key of the GPT 3.5 Turbo model developed the project's website's front-end and back-end and linking of project's front-end and back-end.
+### Janesh Kapoor - Done summarization of research papers, developed the project's website's front-end and added the story recitation component.
+### Mahima Chopra - Done problem formulation, dataset collection part of the project and developed the project's website's front-end.
+### Shaina Mehta - Done the problem formulation, literature survey, dataset collection, fine-tuning of Gemma2B Instruct model and development of the backend of the website.
+### Mahisha Ramesh - Done the problem formulation, literature survey, dataset collection, coding part of the project-GPT-2 and GPT-3.5 turbo models and helped in writing the report in LaTex typesetting.
+### Shivam Dwivedi - Give access to the API key of the GPT 3.5 Turbo model, developed the project's website's front-end and back-end and linking of project's front-end and back-end and added the story recitation component.
 
 ## References and Bibliography for The Code:
 
