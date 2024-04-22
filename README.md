@@ -1,7 +1,7 @@
 # Interactive-Story-Generation
 Course project of CSE508: Information Retrieval Winter Semester 2024
 
-## Authors:
+## Authors :
 ### Janesh Kapoor
 ### Mahima Chopra
 ### Mahisha Ramesh
