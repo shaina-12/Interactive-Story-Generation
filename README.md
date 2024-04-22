@@ -45,3 +45,7 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 [5] https://huggingface.co/blog/gemma-peft
 
 [6] https://github.com/shaina-12/Knee-Ostheoarthritis-Detection-and-Severity-Prediction
+
+[7] https://www.kaggle.com/code/nestoranaranjo/convert-json-to-jsonl-with-python-for-bigquery
+
+[8] https://stackoverflow.com/questions/38915183/python-conversion-from-json-to-jsonl
