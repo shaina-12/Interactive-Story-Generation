@@ -41,12 +41,20 @@ def storyteller_page():
         <end_of_turn>\\n<start_of_turn> model
 
         """
+        temp = """
+        user
+        Below is an instruction that describes a task. Write a response that appropriately completes the request.
+        {query}
+        \\n model
+
+        """
         new_prompt = prompt_template.format(query=query)
+        new_temp = temp.format(query=query)
         encoder = tokenizer(new_prompt, return_tensors="pt", add_special_tokens=True)
         model_inputs = encoder.to(device)
-        generated_ids = model.generate(**model_inputs, max_new_tokens=100, do_sample=True, pad_token_id=tokenizer.eos_token_id)
+        generated_ids = model.generate(**model_inputs, max_new_tokens=500, do_sample=True, pad_token_id=tokenizer.eos_token_id)
         decoded = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
-        answer = (decoded[len(prompt[:266]):])    
+        answer = (decoded)[len(new_temp):]
         return render_template('storyteller.html', story=answer)
     return render_template('storyteller.html')
 
