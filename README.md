@@ -19,7 +19,7 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### Our Friends and Parents
 
 ## About The Project:
-
+This project aims to build a platform for interactive story generation by finetuning Large Language Models, such as GPT-2 models based on different themes. It also focuses on developing stories, ensuring consistency, coherency, and engaging narratives.
 
 ## Repository Contents:
 ### Baseline Results - Contains Deliverables of Baseline Results
