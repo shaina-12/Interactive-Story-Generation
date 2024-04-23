@@ -27,12 +27,11 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ### 51_Proposal.pdf - Project Proposal
 
 ## Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
-### Janesh Kapoor - Done summarization of research papers, developed the project's website's front-end and added the story recitation component.
+### Janesh Kapoor - Done summarization of research papers, developed the project's website's front-end and added the story generation component.
 ### Mahima Chopra - Done problem formulation, dataset collection part of the project and developed the project's website's front-end.
 ### Shaina Mehta - Done the problem formulation, literature survey, dataset collection, fine-tuning of Gemma2B Instruct model and development of the backend of the website.
 ### Mahisha Ramesh - Done the problem formulation, literature survey, dataset collection, coding part of the project-GPT-2 and GPT-3.5 turbo models and helped in writing the report in LaTex typesetting.
-### Shivam Dwivedi - Give access to the API key of the GPT 3.5 Turbo model, developed the project's website's front-end and back-end and linking of project's front-end and back-end and added the story recitation component.
-
+### Shivam Dwivedi - Helped in fine tune access of the GPT 3.5 Turbo model, developed the project's website's front-end and back-end and linking of project's front-end and back-end.
 ## References and Bibliography for The Code:
 
 [1] https://adithyask.medium.com/a-beginners-guide-to-fine-tuning-gemma-0444d46d821c.
