@@ -16,6 +16,7 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 
 ## Acknowledgement:
 ### Unsung Heros of Stack Overflow, Github, Medium Blogs, HuggingFace Tutorials, Towards Data Science Web Blogs, Kaggle Notebooks, YouTube videos, Research papers, etc.
+### Our Friends and Parents
 
 ## About The Project:
 
