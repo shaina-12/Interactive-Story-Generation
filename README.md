@@ -49,3 +49,11 @@ This project aims to build a platform for interactive story generation by finetu
 [7] https://www.kaggle.com/code/nestoranaranjo/convert-json-to-jsonl-with-python-for-bigquery
 
 [8] https://stackoverflow.com/questions/38915183/python-conversion-from-json-to-jsonl
+
+### Note: 
+
+The final unformatted project report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final_Project_Report.pdf
+
+The final formatted project Report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final%20Report%20Updated.pdf
+
+The Youtube Link of the PPt: https://www.youtube.com/watch?v=V_1F_0RNE8I&list=PLOBgoakz1-WgDt9qoisWliFdfeDXMib2G&ab_channel=ShivamDwivedi
