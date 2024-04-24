@@ -21,10 +21,19 @@ Course project of CSE508: Information Retrieval Winter Semester 2024
 ## About The Project:
 This project aims to build a platform for interactive story generation by finetuning Large Language Models, such as GPT-2 models based on different themes. It also focuses on developing stories, ensuring consistency, coherency, and engaging narratives.
 
-## Repository Contents:
-### Baseline Results - Contains Deliverables of Baseline Results
-### Mid Project Review  - Contains Deliverables of Mid Project Review 1
-### 51_Proposal.pdf - Project Proposal
+
+### Note: 
+
+### The Youtube Link of the PPT and Website Demo: https://www.youtube.com/watch?v=V_1F_0RNE8I&list=PLOBgoakz1-WgDt9qoisWliFdfeDXMib2G&ab_channel=ShivamDwivedi
+
+### Extra Code of the Website: https://github.com/dwivediishivam/scapestory
+
+### Website Link: https://scapestory.azurewebsites.net/
+
+### The final unformatted project report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final_Project_Report.pdf
+
+### The final formatted project Report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final%20Report%20Updated.pdf
+
 
 ## Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
 ### Janesh Kapoor - Done summarization of research papers, developed the project's website's front-end and added the story generation component.
@@ -49,11 +58,3 @@ This project aims to build a platform for interactive story generation by finetu
 [7] https://www.kaggle.com/code/nestoranaranjo/convert-json-to-jsonl-with-python-for-bigquery
 
 [8] https://stackoverflow.com/questions/38915183/python-conversion-from-json-to-jsonl
-
-### Note: 
-
-The final unformatted project report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final_Project_Report.pdf
-
-The final formatted project Report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final%20Report%20Updated.pdf
-
-The Youtube Link of the PPt: https://www.youtube.com/watch?v=V_1F_0RNE8I&list=PLOBgoakz1-WgDt9qoisWliFdfeDXMib2G&ab_channel=ShivamDwivedi
